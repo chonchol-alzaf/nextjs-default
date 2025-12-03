@@ -12,6 +12,9 @@ export default function Home() {
           height={38}
           priority
         />
+        <h1 className="text-4xl font-bold tracking-tight text-center sm:text-6xl">
+          Default
+        </h1>
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
           <li className="mb-2 tracking-[-.01em]">
             Default next js site by nexzan {" "}
